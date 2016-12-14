@@ -1,5 +1,5 @@
 {
-  "name": "css-loader",
+  "name": "@mmmcorp/css-loader",
   "version": "0.21.0",
   "author": "Tobias Koppers @sokra",
   "description": "css loader module for webpack",
